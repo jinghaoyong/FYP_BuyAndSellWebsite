@@ -95,7 +95,7 @@ $password = "";
     <body style="font-family: tahoma; background-color: #e9ebee; background-image: url( image/tarclogo.jpeg); background-size:  cover; background-repeat: no-repeat   " >
         
         <div id="bar" style="text-align:center; font-size: 80px; font-family:Roboto;font-weight:300;">          
-            <div  >Welcome to TAR UC Buy and Sell Website</div>     
+            <div  >Welcome to jjjj hhh  TAR UC Buy and Sell Website</div>     
         </div>
         
         <!--<!-- comment 
